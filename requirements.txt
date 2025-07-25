@@ -1,0 +1,30 @@
+
+accelerate
+cn_string
+eng_to_ipa
+inflect
+ja_sentence_segmenter
+jieba
+librosa
+loguru
+matplotlib
+numba
+numpy==1.26.4
+phonemizer
+pypinyin
+pypinyin_dict
+PyYAML
+scipy
+soundfile
+torch
+torchvision
+torchaudio
+tqdm
+unidic_lite
+unidecode
+gradio==3.48.0
+transformers==4.40.0
+huggingface_hub==0.23.2
+
+# Cài đặt MeloTTS từ mã nguồn cục bộ
+-e ./MeloTTS
